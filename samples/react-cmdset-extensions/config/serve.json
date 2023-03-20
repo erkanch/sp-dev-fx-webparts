@@ -1,0 +1,31 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/spfx-serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://ecelme.sharepoint.com/SitePages/Forms/AllPages.aspx",
+      "customActions": {
+        "065e33db-055e-4f60-945e-fd811b43c628": {
+          "location": "ClientSideExtension.ListViewCommandSet.CommandBar",
+          "properties": {
+            "sampleTextOne": "One item is selected in the list",
+            "sampleTextTwo": "This command is always visible."
+          }
+        }
+      }
+    },
+    "removeTitleArea": {
+      "pageUrl": "https://ecelme.sharepoint.com/SitePages/Forms/AllPages.aspx",
+      "customActions": {
+        "065e33db-055e-4f60-945e-fd811b43c628": {
+          "location": "ClientSideExtension.ListViewCommandSet.CommandBar",
+          "properties": {
+            "sampleTextOne": "One item is selected in the list",
+            "sampleTextTwo": "This command is always visible."
+          }
+        }
+      }
+    }
+  }
+}

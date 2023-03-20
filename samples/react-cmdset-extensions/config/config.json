@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "remove-title-area-command-set": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/removeTitleArea/RemoveTitleAreaCommandSet.js",
+          "manifest": "./src/extensions/removeTitleArea/RemoveTitleAreaCommandSet.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "RemoveTitleAreaCommandSetStrings": "lib/extensions/removeTitleArea/loc/{locale}.js"
+  }
+}

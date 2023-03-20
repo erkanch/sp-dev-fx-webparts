@@ -1,0 +1,19 @@
+
+.subfoldersContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.subfoldersHeader {
+    margin: 10px 0;
+}
+
+.subfolderWrapper {
+    margin: 10px 0;
+
+    img {
+        width: 16px;
+        height: 16px;
+        margin-right: 10px;
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+    "solution": {
+        "name": "RP Command Set Extensions",
+        "id": "418ec88a-c109-4a61-bafa-ed6f4f71adec",
+        "version": "1.0.3.0",
+        "includeClientSideAssets": true,
+        "skipFeatureDeployment": true,
+        "isDomainIsolated": false,
+        "developer": {
+            "name": "",
+            "websiteUrl": "",
+            "privacyUrl": "",
+            "termsOfUseUrl": "",
+            "mpnId": "Undefined-1.15.2"
+        },
+        "metadata": {
+            "shortDescription": {
+                "default": "Command Set Extensions description"
+            },
+            "longDescription": {
+                "default": "Command Set Extensions description"
+            },
+            "screenshotPaths": [],
+            "videoUrl": "",
+            "categories": []
+        },
+        "features": [
+            {
+                "title": "Application Extension - Deployment of custom action",
+                "description": "Deploys a custom action with ClientSideComponentId association",
+                "id": "49e57630-361a-42f0-bd27-e9a632406fe4",
+                "version": "1.0.3.0",
+                "assets": {
+                    "elementManifests": [
+                        "elements.xml",
+                        "ClientSideInstance.xml"
+                    ]
+                }
+            }
+        ]
+    },
+    "paths": {
+        "zippedPackage": "solution/cmd-set-ext.sppkg"
+    }
+}

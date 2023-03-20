@@ -5,11 +5,11 @@
 Provides additional features to manage your intranet pages
 
 ##  
-![directory](/samples/react-cmdset-extensions/assets/img1.jpg) 
+![directory](/assets/img1.jpg) 
 
-![directory](/samples/react-cmdset-extensions/assets/img2.jpg) 
+![directory](/assets/img2.jpg) 
 
-![directory](/samples/react-cmdset-extensions/assets/img3.jpg) 
+![directory](/assets/img3.jpg) 
 
 ## Compatibility
 

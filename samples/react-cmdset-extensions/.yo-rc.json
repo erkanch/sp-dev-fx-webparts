@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "rp-command-set-extensions",
+    "libraryId": "d55a4608-ee3a-499a-845b-6daf2b4eaacd",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Command Set Extensions",
+    "solutionShortDescription": "Command Set Extensions description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ListViewCommandSet"
+  }
+}

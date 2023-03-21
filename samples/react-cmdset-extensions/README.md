@@ -6,11 +6,11 @@ Provides additional features to manage your intranet pages
 
 ## 
 <!-- ![Example of a good preview](assets/goodpreview.png) -->
-![directory](assets/img1.jpg) 
+![directory](assets/img1.JPG) 
 
-![directory](assets/img2.jpg) 
+![directory](assets/img2.JPG) 
 
-![directory](assets/img3.jpg) 
+![directory](assets/img3.JPG) 
 
 ## Compatibility
 

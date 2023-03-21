@@ -2,7 +2,10 @@
 
 ## Summary
 
-Provides additional features to manage your intranet pages
+Provides additional features to manage your intranet pages. This extensions allows the content authors to perform operations on intranet pages that aren't available OOTB:
+
+* Remove the title area of a page without using any CSS hacks
+* Move pages to sub folders
 
 ## 
 <!-- ![Example of a good preview](assets/goodpreview.png) -->
@@ -58,7 +61,7 @@ Version|Date|Comments
 
 ## Features
 
-This extensions allows the content authors to perform operations on intranet pages that aren't normally available OOTB:
+This extensions allows the content authors to perform operations on intranet pages that aren't available OOTB:
 
 * Remove the title area of a page without using any CSS hacks
 * Move pages to sub folders

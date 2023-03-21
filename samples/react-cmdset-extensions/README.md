@@ -4,7 +4,8 @@
 
 Provides additional features to manage your intranet pages
 
-##  
+## 
+<!-- ![Example of a good preview](assets/goodpreview.png) -->
 ![directory](assets/img1.jpg) 
 
 ![directory](assets/img2.jpg) 
